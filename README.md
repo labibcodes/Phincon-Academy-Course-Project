@@ -1,7 +1,5 @@
 # Phincon-Academy-Course-Project
 
-# Phincon Academy Course Project
-
 ## Overview
 This repository contains projects and exercises developed as part of the
 **Phincon Academy course program**.  
