@@ -1,0 +1,5 @@
+print("My name is Labib Abiy")
+print("You can call me Labib")
+print("I'm 18 years old")
+print("I live in Cikarang")
+print("I like programming with python")
